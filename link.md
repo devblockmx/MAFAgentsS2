@@ -15,3 +15,9 @@ https://learn.microsoft.com/es-es/azure/cloud-adoption-framework/ai-agents/data-
 [Domain Driven Design: principios, beneficios y elementos — Segunda Parte | by Jonathan Loscalzo | Medium](https://medium.com/@jonathanloscalzo/domain-driven-design-principios-beneficios-y-elementos-segunda-parte-337d77dc8566)
 
 https://github.com/balkrish33/Books/blob/master/software-development/domain-driven-design-distilled.pdf
+
+#Session 3
+https://learn.microsoft.com/es-es/agent-framework/hosting/foundry-hosted-agent?pivots=programming-language-csharp#invocations-protocol
+
+https://github.com/microsoft-foundry/foundry-samples/tree/main/samples/csharp/hosted-agents/agent-framework
+
